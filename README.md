@@ -24,7 +24,7 @@ This project demonstrates hosting a static HTML website on an Azure Virtual Mach
 ![IIS Installation](screenshots/iis-installation.png)
 
 ### HTML Code
-![Html Code](screenshots/Html Code.png)
+![Html Code](screenshots/HTML-Code.png)
 
 ### Website Output
 ![Website Output](screenshots/website-output.png)
